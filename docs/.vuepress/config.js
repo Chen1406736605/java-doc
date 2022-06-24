@@ -24,7 +24,7 @@ module.exports = {
         text: 'Java', items: [
           {
             text: 'Java 核心知识', items: [
-              { text: 'Java 基础知识', link: '/pages/47aa52/' }
+              { text: 'Java 基础知识', link: '/pages/2950ba/' }
             ]
           },
           {

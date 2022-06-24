@@ -4,7 +4,7 @@ heroImage: /img/logo.png
 heroText: Java 生态知识库
 tagline: 🚀Java核心知识，开发框架，Linux，编程思想，设计模式，计算机基础，算法，数据库，中间件，分布式，微服务，类库，开发套件，源码阅读，笔记，工具，开源项目，同时也分享好的资源！🔥持续更新中...
 actionText: 立即进入 →
-actionLink: /pages/47aa52/
+actionLink: /pages/7daf0d/
 bannerBg: none # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
 postList: none
 
