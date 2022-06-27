@@ -49,6 +49,25 @@ module.exports = {
         ]
       },
       {
+        text: '开发', items: [
+          {
+            text: '开发 - 开发基础', items: [
+              { text: '常用类库', link: '' }
+            ]
+          },
+          {
+            text: '开发 - 质量保障', items: [
+              { text: '单元测试', link: '' }
+            ]
+          },
+          {
+            text: '开发 - 代码设计', items: [
+              { text: '设计模式', link: '/pages/17da4a/' }
+            ]
+          }
+        ]
+      },
+      {
         text: '工具', items: [
           { text: '开发工具', link: '/pages/422210/' },
           { text: 'Git', link: '/pages/30becd/' },
