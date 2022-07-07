@@ -74,6 +74,11 @@ module.exports = {
           { text: 'Docker', link: '/pages/f2e32e/' }
         ]
       },
+      {
+        text: '编程语言', items: [
+          { text: 'Dart', link: '/pages/e71389/' }
+        ]
+      },
       { text: '资源', link: '/pages/20d224/' },
       { text: 'Github', link: 'https://github.com/Chen1406736605/java-doc.git' }
     ],
@@ -134,7 +139,7 @@ module.exports = {
     },
     footer: { // 页脚信息
       createYear: 2022, // 博客创建年份
-      copyrightInfo: 'ZhcChen | MIT License', // 博客版权信息，支持a标签
+      copyrightInfo: `ZhcChen | MIT License | <a href="https://beian.miit.gov.cn">闽ICP备2021014153号-2</a>`, // 博客版权信息，支持a标签
     },
     htmlModules,
   },
